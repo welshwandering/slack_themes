@@ -10,8 +10,6 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 
 ## Slack Themes
 
-##### Citrus
-`#507800, #94AF63, #FFEA00, #507800, #94AF63, #FFFFFF, #F7FF00, #FF9900`
 
 ##### Base16 Eighties Light
 `#F2F0EC, #E8E6DF, #F2777A, #FFFFFF, #515151, #515151, #99CC99, #66CCCC`
@@ -21,6 +19,9 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 
 ##### Base16 Tomorrow Night
 `#191A1C, #282A2E, #B6BC68, #FFFFFF, #363B41, #959896, #80A2BE, #C26161`
+
+##### Citrus
+`#507800, #94AF63, #FFEA00, #507800, #94AF63, #FFFFFF, #F7FF00, #FF9900`
 
 ##### Solarized
 `#FDF6E3, #EEE8D5, #93A1A1, #FDF6E3, #EEE8D5, #657B83, #2AA198, #DC322F`
