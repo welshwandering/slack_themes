@@ -40,3 +40,6 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 
 ##### Summer Craze
 `#B300B3, #23A61C, #FFFFFF, #C400FF, #FF2EFF, #000000, #F7FF00, #F7FF00`
+
+##### Tron
+`#000000, #000000, #1EB8EB, #000000, #1EB8EB, #FFFFFF, #1EB8EB, #1EB8EB`
