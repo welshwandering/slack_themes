@@ -10,6 +10,10 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 
 ## Slack Themes
 
+##### Base16 Tomorrow Night
+
+`#191A1C, #282A2E, #B6BC68, #FFFFFF, #363B41, #959896, #80A2BE, #C26161`
+
 ##### Solarized
 `#FDF6E3, #EEE8D5, #93A1A1, #FDF6E3, #EEE8D5, #657B83, #2AA198, #DC322F`
  
