@@ -10,6 +10,9 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 
 ## Slack Themes
 
+##### Citrus
+`#507800, #94AF63, #FFEA00, #507800, #94AF63, #FFFFFF, #F7FF00, #FF9900`
+
 ##### Base16 Tomorrow Night
 `#191A1C, #282A2E, #B6BC68, #FFFFFF, #363B41, #959896, #80A2BE, #C26161`
 
@@ -21,3 +24,9 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 
 ##### Son of Obsidian
 `#293134, #2F393C, #293134, #93C763, #2F393C, #81969A, #EC7600, #EC7600`
+
+##### Stark Contrast
+`#000000, #A51C24, #FFFFFF, #0320FF, #A5A5A5, #FFFFFF, #FFFFFF, #FFFF00`
+
+##### Summer Craze
+`#B300B3, #23A61C, #FFFFFF, #C400FF, #FF2EFF, #000000, #F7FF00, #F7FF00`
