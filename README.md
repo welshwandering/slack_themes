@@ -10,6 +10,8 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 
 ## Slack Themes
 
+##### Aubergine (bundled)
+`#4D394B, #3E313C, #4C9689, #FFFFFF, #3E313C, #FFFFFF, #38978D, #EB4D5C` ([Preview](https://www.dropbox.com/s/k0126q6xfw0fz8q/Screenshot%202014-08-10%2000.28.03.png))
 
 ##### Base16 Eighties Light
 `#F2F0EC, #E8E6DF, #F2777A, #FFFFFF, #515151, #515151, #99CC99, #66CCCC` ([Preview](https://www.dropbox.com/s/3tlfex5q1wxofjg/Screenshot%202014-08-09%2017.34.36.png))
@@ -23,8 +25,17 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 ##### Citrus
 `#507800, #94AF63, #FFEA00, #507800, #94AF63, #FFFFFF, #F7FF00, #FF9900` ([Preview](https://www.dropbox.com/s/zkvj3iafq9yryg0/Screenshot%202014-08-09%2017.36.26.png))
 
+##### Hoth (bundled)
+`#F8F8FA, #F8F8FA, #CAD1D9, #FFFFFF, #FFFFFF, #383F45, #60D156, #FF8669` ([Preview](https://www.dropbox.com/s/q1wfj1ic8yoh6av/Screenshot%202014-08-10%2000.28.42.png))
+
+##### Juice Bar (bundled)
+` #86A34E, #94AF63, #FFFFFF, #6D8B42, #94AF63, #FFFFFF, #FFB10A, #DFA044` ([Preview](https://www.dropbox.com/s/d5hs02xt2fjhj85/Screenshot%202014-08-10%2000.31.05.png))
+
 ##### Monokai
 `#222222, #2F2F2F, #F92772, #FFFFFF, #A6E22D, #FFFFFF, #66D9EF, #BE84F2` ([Preview](https://www.dropbox.com/s/tb14tkml4oaoszh/Screenshot%202014-08-09%2017.36.59.png))
+
+##### Ochin (bundled)
+`#303E4D, #2C3849, #6698C8, #FFFFFF, #4A5664, #FFFFFF, #94E864, #78AF8F` ([Preview](https://www.dropbox.com/s/78aovvd5gxab9jn/Screenshot%202014-08-10%2000.31.59.png))
 
 ##### Solarized
 `#FDF6E3, #EEE8D5, #93A1A1, #FDF6E3, #EEE8D5, #657B83, #2AA198, #DC322F` ([Preview](https://www.dropbox.com/s/vgqulqb981ls92w/Screenshot%202014-08-09%2017.37.25.png))
@@ -43,3 +54,9 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 
 ##### Tron
 `#000000, #000000, #1EB8EB, #000000, #1EB8EB, #FFFFFF, #1EB8EB, #1EB8EB` ([Preview](https://www.dropbox.com/s/7nblayieb3mo5se/Screenshot%202014-08-09%2017.40.37.png))
+
+##### WameIn (bundled)
+`#BB6A76, #AD5B67, #62B791, #FFFFFF, #A5516A, #FFFFFF, #68F798, #694464` ([Preview](https://www.dropbox.com/s/e3i5syc2lp2nwfu/Screenshot%202014-08-10%2000.30.15.png))
+
+##### Work Hard (bundled)
+`#4D5250, #444A47, #D39B46, #FFFFFF, #434745, #FFFFFF, #99D04A, #DB6668` ([Preview](https://www.dropbox.com/s/wrb64i0rcp3zey2/Screenshot%202014-08-10%2000.32.48.png))
