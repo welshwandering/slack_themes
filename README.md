@@ -11,7 +11,6 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 ## Slack Themes
 
 ##### Base16 Tomorrow Night
-
 `#191A1C, #282A2E, #B6BC68, #FFFFFF, #363B41, #959896, #80A2BE, #C26161`
 
 ##### Solarized
@@ -19,3 +18,6 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
  
 ##### Solarized Dark
 `#073642, #002B36, #B58900, #FDF6E3, #CB4B16, #FDF6E3, #2AA198, #DC322F`
+
+##### Son of Obsidian
+`#293134, #2F393C, #293134, #93C763, #2F393C, #81969A, #EC7600, #EC7600`
