@@ -23,6 +23,9 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 ##### Citrus
 `#507800, #94AF63, #FFEA00, #507800, #94AF63, #FFFFFF, #F7FF00, #FF9900`
 
+##### Monokai
+`#222222, #2F2F2F, #F92772, #FFFFFF, #A6E22D, #FFFFFF, #66D9EF, #BE84F2`
+
 ##### Solarized
 `#FDF6E3, #EEE8D5, #93A1A1, #FDF6E3, #EEE8D5, #657B83, #2AA198, #DC322F`
  
