@@ -74,6 +74,9 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 `#BB6A76, #AD5B67, #62B791, #FFFFFF, #A5516A, #FFFFFF, #68F798, #694464` 
 ![Preview](https://photos-3.dropbox.com/t/0/AABVW9QGyOnIZdbfpBUA9L4wwI0DC7k0WavNHGgJD5R2AA/12/360565/png/1024x768/3/1407801600/0/2/Screenshot%202014-08-10%2000.30.15.png/r7-OtgiI8TSKnP1yBOPSvlOM4SdaUYvph0B7B_udjok)
 
+##### Wegman
+`#E3DAE6, #B49FC2, #5A30B0, #FDF6E3, #EEE8D5, #594275, #B358BF ,#BD72CC` ![Preview](https://photos-5.dropbox.com/t/0/AABUqR1JucgyQZfWzEBV-TaUW_CoywEvX5vvMF1tUTBLNQ/12/360565/png/1024x768/2/_/0/4/Screenshot%202014-08-12%2018.56.22.png/x9002bj9d26wggl/AABzowTBy9U2HdVWA93SKelPa/Screenshot%202014-08-12%2018.56.22.png)
+
 ##### Work Hard (bundled)
 `#4D5250, #444A47, #D39B46, #FFFFFF, #434745, #FFFFFF, #99D04A, #DB6668` 
 ![Preview](https://photos-4.dropbox.com/t/0/AABOXXv_Eu_IK6LAMZbqZ-grizlHM5b-9hglCXDxmJaAOg/12/360565/png/1024x768/3/1407801600/0/2/Screenshot%202014-08-10%2000.32.48.png/SgiIXd_mcE-CbWVaDqlHt-yrzuHn31tgewIlp2-rSNo)
