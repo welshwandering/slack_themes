@@ -30,6 +30,10 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 `#507800, #94AF63, #FFEA00, #507800, #94AF63, #FFFFFF, #F7FF00, #FF9900` 
 ![Preview](https://photos-6.dropbox.com/t/0/AAAMuIJHxfA7y3Gf4tTbN2jWMFzuSe7qBAOuGsX4F_Tc_Q/12/360565/png/1024x768/3/1407801600/0/2/Screenshot%202014-08-09%2017.36.26.png/ZNXF6tPTJ4Dnx8nm5j4jxZBGJErVOVk_hoYjFUHTE6Q)
 
+##### DigitalOcean
+`#3686BE, #215F8B, #7DB461, #FFFFFF, #2E3234, #FFFFFF, #7DB461, #215F8B`
+![Preview](https://d1zjcuqflbd5k.cloudfront.net/files/acc_284966/48xA?response-content-disposition=inline;%20filename=Screenshot%20on%202014-09-03%20at%2013%3A14%3A17.png&Expires=1409746542&Signature=CjEFAQcXCPOuTIR-~9sBHYWrS8nrJ498N8iQucaQS1k1~35G09nL4vsSDIV5jGStau2-4kKsxq3z~-2MTpc0m8z35bBGV2huG~-Wx0mL-KpdfZzPp2X6evc-1BafAJjz5JtTwiwkOy6nM4B1TR1Mt~ByGZXkP7MImRmULo8deSo_&Key-Pair-Id=APKAJTEIOJM3LSMN33SA)
+
 ##### Hoth (bundled)
 `#F8F8FA, #F8F8FA, #CAD1D9, #FFFFFF, #FFFFFF, #383F45, #60D156, #FF8669` 
 ![Preview](https://photos-2.dropbox.com/t/0/AACpW9-o1L_75avv5glmaHCYOFFd74TLkgIA3AHJV239uA/12/360565/png/1024x768/3/1407801600/0/2/Screenshot%202014-08-10%2000.28.42.png/vAL9-WKpG6-B1tR7nvB4w25JS5PPG5g0APTtXz25HUo)
