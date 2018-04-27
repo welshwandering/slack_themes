@@ -44,6 +44,9 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 ##### Ochin (bundled)
 `#303E4D, #2C3849, #6698C8, #FFFFFF, #4A5664, #FFFFFF, #94E864, #78AF8F`
 
+##### PHP.net
+`#2D2D2D, #3d3d3d, #8892BF, #FFFFFF, #4F5B93, #FFFFFF, #8892BF, #AE508D`
+
 ##### Solarized
 `#FDF6E3, #EEE8D5, #93A1A1, #FDF6E3, #EEE8D5, #657B83, #2AA198, #DC322F`
 
@@ -56,8 +59,14 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 ##### Stark Contrast
 `#000000, #A51C24, #FFFFFF, #0320FF, #A5A5A5, #FFFFFF, #FFFFFF, #FFFF00`
 
+##### Star Wars - Empire
+`#303E4D, #2C3849, #586f87, #FFFFFF, #4A5664, #FFFFFF, #ad4444, #ed5858`
+
 ##### Summer Craze
 `#B300B3, #23A61C, #FFFFFF, #C400FF, #FF2EFF, #000000, #F7FF00, #F7FF00`
+
+##### Terminal
+`#000000, #000000, #006600, #00ff00, #00ff00, #00ff00, #ff0000, #ff0000`
 
 ##### Tron
 `#000000, #000000, #1EB8EB, #000000, #1EB8EB, #FFFFFF, #1EB8EB, #1EB8EB`
