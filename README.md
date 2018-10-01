@@ -47,6 +47,9 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 ##### PHP.net
 `#2D2D2D, #3d3d3d, #8892BF, #FFFFFF, #4F5B93, #FFFFFF, #8892BF, #AE508D`
 
+#### Polymer
+`#1F2036, #7986CB, #FE528C, #FFFFFF, #606BA2, #FFFFFF, #2DEBAE, #FE528C`
+
 ##### Solarized
 `#FDF6E3, #EEE8D5, #93A1A1, #FDF6E3, #EEE8D5, #657B83, #2AA198, #DC322F`
 
